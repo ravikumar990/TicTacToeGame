@@ -4,6 +4,7 @@ public class ticTacToe {
       
      System.out.println("play game");
          createBoard();
+         playerChoose();
 }
  public static void main creatBoard(){
      char[] board = new char[10];
