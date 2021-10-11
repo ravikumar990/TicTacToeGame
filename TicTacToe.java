@@ -15,7 +15,7 @@ public class ticTacToe {
    }
 	
 	//Player choose
-	public static void playerChosse{
+	public static void playerChoose{
 		// declare variable
 		int playerX = 0;
 		//generate random number for player choose 
